@@ -53,6 +53,33 @@
   <img width="1787" alt="image" src="https://github.com/user-attachments/assets/c0a1dffc-d27a-435e-a3b7-66ad84742d2c" />
 
 
-> 点击上方链接，即可在浏览器中一键安装插件！
+> 目前该插件已经通过Chrome和Firefox官方的审核，点击上方链接，即可在浏览器中一键安装插件！
 
----
+
+****************************
+
+## 🔒 权限说明
+
+**本插件仅在用户授权页面运行，不会访问或收集任何隐私信息。**
+
+**用户滥用造成的一切后果与作者无关**
+
+**使用者请务必遵守当地法律**
+
+**本程序不得用于商业用途，仅限学习交流**
+
+*********
+
+**细雪之舞 · 刷课神器由Hx0战队开发维护**
+
+<img width="318" alt="image" src="https://user-images.githubusercontent.com/67818638/147641794-82f32969-4214-48da-9df2-764318225589.png">
+
+
+**扫描关注战队公众号，获取最新动态**
+
+<img width="318" alt="image" src="https://user-images.githubusercontent.com/67818638/149507366-4ada14db-a972-4071-bbb6-197659f61ced.png">
+
+**【知识星球】福利大放送**
+
+<img width="318" alt="image" src="https://github.com/user-attachments/assets/94849d79-bcac-4a43-9221-3e2718225cb6">
+
