@@ -1,26 +1,40 @@
-# ❄️ 细雪之舞 · 刷课神器
+# ❄️ 细雪之舞 · 刷课神器 V1.1
 
-**细雪之舞·刷课神器（Snowblade Dance）** —— 由Hx0战队开发的浏览器插件，专为高效完成在线课程学习任务设计，轻松提升学习效率。
-它界面美观，操作简洁，支持多项实用功能，真正做到省时省力、清爽不打扰。
+**细雪之舞·刷课神器（Snowblade Dance）** —— 由Hx0战队开发的浏览器插件，专为高效完成在线课程学习任务设计，轻松提升学习效率。 它界面美观，操作简洁，支持多项实用功能，真正做到省时省力、清爽不打扰。
+
+![顶部宣传图块](https://github.com/user-attachments/assets/e9435a8f-a990-4d18-978f-cf262d91b468)
 
 ---
 
 ## 🌟 插件主要功能
 
-✅ **秒课功能**  
-一键秒看当前视频，节省宝贵时间，轻松完成课程要求。
+✅ **秒课功能**
 
-⚡ **倍速播放**  
-支持原速、0.5倍速、1.5 倍速、2.0 倍速，甚至高达 **16 倍速** 播放。
+一键快速完成当前视频播放，节省宝贵时间
 
-🔓 **解除复制限制**  
-解除网页禁止复制的限制，摆脱复制按钮无法使用的困扰。
+⚡ **自定义倍速播放**
 
-📌 **自定义快捷网址**  
-可添加常用学习网站，自由切换，一键直达。
+从 0.1 到 16.0 倍任意调节，支持细致微调，满足各种学习节奏
 
-🧊 **磨砂卡片 UI**  
-界面采用磨砂质感，风格统一，贴近 **iOS 审美**，赏心悦目。
+🌀 **防网页超时退出**
+
+通过随机模拟点击、键盘、滑动等操作，有效防止长时间无操作被强制登出
+
+🔓 **解除复制限制**
+
+轻松绕过网页的复制禁用限制，自由复制课程内容
+
+📌 **自定义快捷网址**
+
+支持添加、编辑常用学习网站，自由切换访问更高效
+
+🧊 **磨砂卡片 UI**
+
+整体采用磨砂风格卡片设计，简洁精致，贴近 iOS 审美
+
+👁️‍🗨️ **扩展图标状态展示**
+
+插件图标实时显示当前网页插件运行状态，如当前倍速、复制解除与防超时是否启用，一目了然
 
 ---
 
@@ -34,9 +48,14 @@
 
 ## 💿 插件界面
 
-![home](https://github.com/user-attachments/assets/8de80b79-da25-4a67-853e-beb9416fb66f)
+![home-1](https://github.com/user-attachments/assets/6021947b-29d6-4c72-9b2b-5f2f1c1c3f34)
 
-![options](https://github.com/user-attachments/assets/eb666d2c-2f37-43ed-a609-597cab8af2de)
+
+![options-2](https://github.com/user-attachments/assets/e5390f54-5914-49dd-bef5-81cdbe66d520)
+
+
+![web-3](https://github.com/user-attachments/assets/0f4f8e5c-498f-4c10-86f4-556c402a0106)
+
 
 ---
 
@@ -46,7 +65,8 @@
 
 - [🧊 Chrome 商店安装](https://chromewebstore.google.com/detail/bplpekchhaenghjhgddiinkcmclmdoeh?utm_source=item-share-cb)
   
-  <img width="1655" alt="iShot_2025-06-04_11 02 22" src="https://github.com/user-attachments/assets/e2407dc4-91ea-4153-90e3-fcbf9526215d" />
+  <img width="1787" alt="image" src="https://github.com/user-attachments/assets/35351b9b-1f34-43e4-a574-807814070097" />
+
 
 - [🦊 Firefox 附加组件安装](https://addons.mozilla.org/zh-CN/firefox/addon/细雪之舞-刷课神器/)
   
